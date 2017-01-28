@@ -1,0 +1,9 @@
+Hello: I downloaded MeshLab today, and I am very impressed. I have a project that I am working on, that involves 3-D scans.
+They are of 6 of 6 chesspieces. The scans were imported onto RhinoV5, and altered. I used Netfabb to clean up
+errors in three of the files, before printing them. They printed beautifully. I have a Formlabs Form2 printer. 
+On the three files that would not print, the model slices in Preform (the software drive program for the Form2 printer) 
+show gaps in the slices, which means they will not print, even after the external structure of the files was repaired
+(non-manifold edges, and holes being filled, etc.). My Questions are 1. Does MeshLab have a 'FIX ALL' function,
+like Netfabb does? The list of functions in MeshLab is almost overwhelming. 2. Does MeshLab have a function that will
+ensure that internal structure/layer slices are SOLID, all the way through the model? I am relatively new to 3-D printing, 
+and I want to get this project completed. Thank you in advance for you assistance. Karl S.
